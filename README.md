@@ -1,5 +1,6 @@
 # Backend for tracking Cricket matches and Sore card Application
 
+In this project, I've developed a detailed Low-Level Design (LLD) for Cricbuzz
 
 1. It can track tournaments
 2. Tournament can contain multiple fixtures
